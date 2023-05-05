@@ -6,4 +6,4 @@ We'll use the book Quantum Computation and Quantum Information by Michael Nielso
 
 The reading material for the week is Sections 2.1 and 2.2 from QCQI : (Linear Algebra and Postulates of Quantum Mechanics)
 
-We'll post the assignment for the week in a few days :)
+The assignment for this week is up :)
