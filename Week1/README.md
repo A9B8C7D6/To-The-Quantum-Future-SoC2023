@@ -16,7 +16,9 @@ Along with this, we'll start to work with **Qiskit** this week, which is an open
 
 [Here's a link to set it up](https://learn.qiskit.org/course/ch-prerequisites/environment-setup-guide-to-work-with-qiskit-textbook)
 
-Assignment 1 coming up in a few days :)
+Assignment 1 coming up in a few days :) (Took like few weeks ig, sorry :( )
+
+There are 4 questions this week, with the topics being Super Dense Encoding, Quantum Teleportation, POVMs and Partial Traces. The instructions for each question are in the respective files, so go ahead with them!
 
 <!-- In this week, we will cover the Math and Quantum Physics required for the remaining duration. The Math section will comprise almost entirely of Linear Algebra, which will include a lot of what has been covered in MA106, but also quite a few new notations and ideas, such as **Outer Products**, **Tensor Products** and **Polar and Singular Value Decompositions**. The Quantum Physics part will mostly focus on **Evolution** and **Measurements** of quantum states.
 
